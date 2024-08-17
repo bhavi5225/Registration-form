@@ -1,0 +1,83 @@
+.container1{
+    display:flex;
+    background-color: #FFCD9E;
+    justify-content:space-between;
+    padding: 5vh 5vw 5vh 9vw;
+    height:62vh;
+}
+h1{
+    width:36vw;
+    font-family:inter;
+    font-weight: 700;
+    line-height:6.5vh;
+}
+.content{
+    width: 31vw;
+    font-family: Inter;
+    font-size: 3.1vh;
+    font-weight: 500;
+    line-height: 4.5vh;
+    text-align: left;
+}
+.para{
+    font-family: Inter;
+    font-size: 3.1vh;
+    text-align: left;
+    font-weight: 800;
+    color: #282828;
+}
+.mail{
+    border:2px, solid,#000000;
+    border-radius:4px;
+    height:7vh;
+    width:22vw;
+    margin-top:1.6vh;
+    margin-right: 0.6vw;
+    padding-left:1vw;
+}
+.button{
+    color:white;
+    background-color:#000000;
+    border-radius:4px;
+    height:7.5vh;
+    width:10vw;
+}
+.spam{
+    color:white;
+    font-family: inter;
+    font-size:2.5vh;
+    width:22vw;
+    font-weight: 520;
+    text-align: center; 
+}
+.container1 img{
+    height:67vh;
+    width:37vw;
+}
+.container2{
+    display:flex;
+    justify-content:space-between;
+    color:#FFFFFF;
+    background-color:#282828;
+    height:24vh;
+    padding: 2vh 8vw 2vh 8vw;
+    font-family: Inter;
+    font-size: 2.5vh;
+    font-weight: 300;
+    line-height: 4vh;
+    text-align: left;
+}
+.list2 {
+    text-align: right;
+}
+.container2 img{
+    height:2.5vh;
+    width: 1.4vw;
+    border:2px,solid,#282828;
+    border-radius:5px;
+    margin-bottom:4vh;
+}
+.list2 a{
+    text-decoration:none;
+    color:#FFFFFF;
+}
